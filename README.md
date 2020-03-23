@@ -1,5 +1,6 @@
 # DGWorld
-Starting to explore using GitHub
+Starting to explore using GitHub, Python and more
+
 Hello Friends,
 I have decided to dive into coding again after 15 years. I used to develop and maintain applications in AS400 and I was good at it. I have had good mentors like Lito Sandiego who have taught me a great deal. 
 Now I have grown in my career as a management consultant having worked with top tier strategy and management consulting firms serving as a trusted advisor for Fortune 500 organizations. 
