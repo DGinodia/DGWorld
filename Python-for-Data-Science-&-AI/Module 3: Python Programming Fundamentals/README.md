@@ -1,4 +1,8 @@
-Module 3 - Python Programming Fundamentals 1. Conditions and Branching 2. Loops 3. Functions 4. Objects and Classes
+Module 3 - Python Programming Fundamentals 
+1. Conditions and Branching 
+2. Loops 
+3. Functions 
+4. Objects and Classes
 
 KEY CONCEPTS
 Classify conditions and branching by identifying structured scenarios with outputs.
@@ -15,8 +19,8 @@ Explain objects and classes by identifying data types and creating a class.
 			v. greater than or equal to: >=
 			vi. less than or equal to: <=
 			vii. ASCII comparison: ord()
-			     Inequality operation is also used to compare the letters/words/symbols according to the ASCII value of letters. The decimal            value shown in the following table represents the order of the character:
-				       1) For example, the ASCII code for ! is 21, while the ASCII code for + is 43. Therefore + is larger than ! as 43 is                       greater than 21.
+			     Inequality operation is also used to compare the letters/words/symbols according to the ASCII value of 				 letters. The decimal value shown in the following table represents the order of the character:
+				       1) For example, the ASCII code for ! is 21, while the ASCII code for + is 43. Therefore + is 						larger than ! as 43 is greater than 21.
 				       2) Similarly, the value for A is 101, and the value for B is 102 therefore:
 		b. Comparison operators: 
 			i. if (comparison):
