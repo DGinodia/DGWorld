@@ -1,11 +1,11 @@
 Module 4 - Working with Data in Python
 
-Reading files with open
+1. Reading files with open
 
-Writing files with open
+2. Writing files with open
 
-Loading data with Pandas
+3. Loading data with Pandas
 
-Working with and Saving data with Pandas
+4. Working with and Saving data with Pandas
 
-Working with APIs
+5. Working with APIs
